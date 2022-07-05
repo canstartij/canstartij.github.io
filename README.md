@@ -22,7 +22,7 @@ When it comes to quality, reliability, and productivity, the **Canon IJ printers
 
 **Here are the simple and easy steps to install canon printer driver on your device :**
 
-1. Locate the  **[ij.start.canon](https://canstartij.github.io/) ** file and double-click it.
+1. Locate the  **[ij.start.canon](https://canstartij.github.io/)** file and double-click it.
 2. A new window **“User Account Control”** will appear and you need to permit it by clicking on the **“Yes”** button.
 3. Read the terms and conditions. Click **"I Agree"** to continue the process of installation.
 4. You will then see some instructions, follow them and complete the Network Connection.
