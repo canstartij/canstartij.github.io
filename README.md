@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# ij.start.canon 
 
-You can use the [editor on GitHub](https://github.com/canstartij/canstartij.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![ij.start.canon](gett-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+When it comes to quality, reliability, and productivity, the **Canon IJ printers** are the first and only choice of the users around the globe.  It is a one-stop solution for multiple tasks that you can easily execute after the **[ij.start.canon](https://canstartij.github.io/)** setup on your device. **ij.start.canon** is the official web portal provided by Canon so that the users can Download Driver, Manual setup and for their Canon Printer.  
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How to Download Canon Printer Drivers?
 
-```markdown
-Syntax highlighted code block
+1. Open your web browser and go to **[ij.start.canon](https://canstartij.github.io/)** 
+2. Choose your preferred language and select your country.
+3. Login to your account by providing the required login details.
+4. Create an account if you are a new user.
+5. By doing so, it will take you to the Product selection window.
+6. Enter the model number of your printer and then, click **“Go”**.
+7. Click the download button to start the downloading process.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Steps to Install Ij Canon Printer Driver
 
-[Link](url) and ![Image](src)
-```
+**Here are the simple and easy steps to install canon printer driver on your device :**
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+1. Locate the  **[ij.start.canon](https://canstartij.github.io/) ** file and double-click it.
+2. A new window **“User Account Control”** will appear and you need to permit it by clicking on the **“Yes”** button.
+3. Read the terms and conditions. Click **"I Agree"** to continue the process of installation.
+4. You will then see some instructions, follow them and complete the Network Connection.
+5. Then, wait for the process to complete successfully.
+6. At last, click **“Exit”** and your installation process will be completed.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/canstartij/canstartij.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##  Setting Up Canon IJ Printer With USB –
+
+**If you have a usb and want to connect a canon printer using usb cable then, the given below steps will help you perform the task much easier. Follow the steps orderly:**
+
+1. From the web browser, go to the **[ij.start.canon](https://canstartij.github.io/)** site and choose to set up a network connection via USB.
+2. Jump next and wait for the Canon software to connect your printer to PC with the help of a USB cable.
+3. Hit Next and get the driver for your printer and check whether you want to connect the printer to a particular network.
+4. Then tap YES and hit the Complete button and go to Add printer option.
+5. Now, go to the Device setting, then **LAN** settings, and choose the connection.
+6. Install Canon drivers, inkjet cartridges, and check the connections for your device.
+7. Configure the Canon printer and try printing.
